@@ -1,0 +1,4 @@
+com/example/ximalaya/MainActivity.java
+ com.example.ximalaya.MainActivity
+com/example/ximalaya/BuildConfig.java
+ com.example.ximalaya.BuildConfig
